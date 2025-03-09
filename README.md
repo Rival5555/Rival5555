@@ -11,7 +11,6 @@
   <body>
     <div class="container">
       <h1>Hi 👋, I'm Hassan</h1>
-      <h3>A passionate Machine Learning student from Pakistan</h3>
       <div class="info">
         <p>
           🔭 I’m currently working on <strong>Machine learning projects</strong>
