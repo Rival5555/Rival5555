@@ -23,9 +23,9 @@
 --
       <div class="info">
         <p>
-          🔭 I’m currently working on <strong>Machine learning projects</strong>
+          🔭 Currently working on <strong>Machine learning projects</strong>
         </p>
-        <p>🌱 I’m currently learning <strong>Pytorch & Tensorflow</strong></p>
+        <p>🌱 Currently learning <strong>Pytorch & Tensorflow</strong></p>
         <p>⚪ Ask me about <strong>Data Preprocessing, Data Visualization, DeepNeuralnetworks, NaturalLanguageProcessing</strong></p>
         <p>📫 Connect with me: <strong>hassanali93r@gmail.com</strong></p>
       </div>
