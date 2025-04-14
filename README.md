@@ -27,7 +27,7 @@
         </p>
         <p>🌱 I’m currently learning <strong>Pytorch & Tensorflow</strong></p>
         <p>⚪ Ask me about <strong>Data Preprocessing, Data Visualization, DeepNeuralnetworks, NaturalLanguageProcessing</strong></p>
-        <p>📫 How to reach me: <strong>hassanali93r@gmail.com</strong></p>
+        <p>📫 Connect with me: <strong>hassanali93r@gmail.com</strong></p>
       </div>
       
 <h3>Connect with me:</h3>
