@@ -18,7 +18,7 @@
   </head>
   <body>
     <div class="container">
-      <h1>Hi 👋, I'm Hassan</h1>
+      <h1>Hi 👋,</h1>
 
 --
       <div class="info">
