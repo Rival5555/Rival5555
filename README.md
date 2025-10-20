@@ -33,12 +33,12 @@
 <h3>Connect with me:</h3>
       <div class="social-links">
         <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/hassan-a-3a477a329/"
+    href="https://linkedin.com/in/https://www.linkedin.com/in/hasanali09"
     target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/hassan-a-3a477a329/"
+      alt="https://www.linkedin.com/in/hasanali09"
       height="30"
       width="40"
   /></a>
