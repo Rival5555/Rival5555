@@ -187,12 +187,14 @@
       
 ---
 
-### :fire: My Stats :
+### :fire: My Stats :  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rival5555&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Rival5555" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rival5555&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Rival5555" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rival5555&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Rival5555" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rival5555&theme=monokai" alt="Rival5555" /></p>
+
+
 
 <div align="center">
   <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
