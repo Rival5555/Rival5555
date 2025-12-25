@@ -200,4 +200,12 @@
   <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
 </div>
 
+
+---
+
+### 🌍 The languages I use
+
+| ⏰ Past month                                                                                                                                          | ⌛️ All time <img align="right" src="https://wakatime.com/badge/user/0c82e760-612e-48fd-84d9-31259dc96d07.svg" alt="Total time coded since Aug 17 2019" /> |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/97358ee5-e081-42a4-866f-7bdd05db0cba.svg" width="400px"></a> | <a href="https://wakatime.com/@angristan"><img src="https://wakatime.com/share/@angristan/c52d5d5e-97dc-47b9-af95-59c367f83a4c.svg" width="400px"></a> 
    
