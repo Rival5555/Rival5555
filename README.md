@@ -188,8 +188,7 @@
 ---
 
 ### :fire: My Stats :  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rival5555&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Rival5555" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rival5555&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Rival5555" /></p>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rival5555&theme=monokai" alt="Rival5555" /></p>
