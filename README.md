@@ -187,11 +187,46 @@
       
 ---
 
-### :fire: My Stats :  
+<h3 align="left">🔥 My Stats :</h3>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="170px" src="https://github-readme-stats-mxsm.vercel.app/api?username=Rival5555&show_icons=true&count_private=true&theme=radical" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="170px" src="https://github-readme-stats-mxsm.vercel.app/api/top-langs/?username=Rival5555&layout=compact&theme=radical&langs_count=10&hide=html,javascript,css,freemarker" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rival5555&theme=radical" alt="Rival5555's streak" />
+</p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rival5555&theme=monokai" alt="Rival5555" /></p>
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
