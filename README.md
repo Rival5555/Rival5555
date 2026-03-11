@@ -1,25 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=crveskig&style=flat-square&color=blue" alt=""/>
-</div>
 
-
-
-
-
-
-
- 
   </head>
   <body>
     <div class="container">
 # Hi 👋, I'm Hassan Ali
 
-### 🤖 Aspiring AI Engineer | MLOps & Deployment Specialist
+### 🤖 Aspiring AI Engineer | MLOps & Deployment 
 
 ---
 
