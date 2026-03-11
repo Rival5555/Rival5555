@@ -11,24 +11,32 @@
 
 
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Hassan;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
 
  
   </head>
   <body>
     <div class="container">
-      <h1>Hi 👋,</h1>
+# Hi 👋, I'm Hassan Ali
 
---
-      <div class="info">
-        <p>
-          🔭 Currently working on <strong>Machine learning projects</strong>
-        </p>
-        <p>🌱 Currently learning <strong>Pytorch & Tensorflow</strong></p>
-        <p>⚪ Ask me about <strong>Data Preprocessing, Data Visualization, DeepNeuralnetworks, NaturalLanguageProcessing</strong></p>
-        <p>📫 How to reach me: <strong>hassanali93r@gmail.com</strong></p>
-      </div>
+### 🤖 Aspiring AI Engineer | MLOps & Deployment Specialist
+
+---
+
+🔭 Currently working on **End-to-End ML Deployment Pipelines with FastAPI & AWS SageMaker**
+
+🌱 Currently learning **MLOps, Kubernetes, and Advanced Deep Learning with PyTorch & TensorFlow**
+
+👯 Looking to collaborate on **AI/ML Projects, Model Deployment & Open Source MLOps Tools**
+
+🧠 Ask me about **MLOps, FastAPI, AWS SageMaker, Docker, Data Preprocessing, Deep Neural Networks & NLP**
+
+⚡ Fun fact: **I believe a great AI model is only 50% of the work — deploying it reliably is the other 50%**
+
+📫 How to reach me: **hassanali93r@gmail.com**
+
+🟢 **Open to Work** — Actively seeking AI Engineer / MLOps Engineer roles
+       
       
 <h3>Connect with me:</h3>
       <div class="social-links">
