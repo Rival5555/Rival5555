@@ -4,7 +4,7 @@
     <div class="container">
 # Hi 👋, I'm Hassan Ali
 
-### 🤖 Aspiring AI Engineer | MLOps & Deployment 
+### 🤖 AI Engineer | MLOps & Deployment 
 
 ---
 
@@ -20,7 +20,6 @@
 
 📫 How to reach me: **hassanali93r@gmail.com**
 
-🟢 **Open to Work** — Actively seeking AI Engineer / MLOps Engineer roles
        
       
 <h3>Connect with me:</h3>
