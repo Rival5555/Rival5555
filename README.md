@@ -210,4 +210,13 @@
 
 ---
 
+<h2 align="center">📊 Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=icancodefyi&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+
 
