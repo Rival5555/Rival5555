@@ -178,7 +178,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rival5555&theme=radical" alt="Rival5555's streak" />
+  <img src="https://streak-stats.demolab.com/?user=Rival5555&theme=radical" alt="Rival5555's streak" />
 </p>
 
 ---
