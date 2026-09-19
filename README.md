@@ -4,7 +4,7 @@
     <div class="container">
 # Hi 👋, I'm Hassan Ali
 
-### 🤖 AI/ML Engineer | MLOps & Deployment 
+###  AI/ML Engineer | MLOps & Deployment 
 
 ---
 
