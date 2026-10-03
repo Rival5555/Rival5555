@@ -20,7 +20,6 @@
 
 📫 How to reach me: **hassanali93r@gmail.com**
  </div>
-<br><br>
 
 ---
 
@@ -121,9 +120,8 @@
       <br>TensorFlow
     </td>
  </tr>
-</table>
-<br><br>   
-      
+</table>  
+    
 ---
 
 <h3 align="left">🔥 My Stats :</h3>
