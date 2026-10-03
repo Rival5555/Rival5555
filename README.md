@@ -4,7 +4,7 @@
     <div class="container">
 # Hi 👋, I'm Hassan Ali
 
-###  AI/ML Engineer | MLOps & Deployment 
+###  AI/ML Engineer | Computer Vision Engineer | 
 
 ---
 
@@ -19,39 +19,6 @@
 ⚡ Fun fact: **I believe a great AI model is only 50% of the work — deploying it reliably is the other 50%**
 
 📫 How to reach me: **hassanali93r@gmail.com**
-
-       
- <div>     
-<h3 align="left">Connect with me:</h3>
-<table align="left">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/hasanali09" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.kaggle.com/hassanali09" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="30" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.facebook.com/hassanbabar.laraib" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/hasanaly____/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://leetcode.com/u/hassanaly_09/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="30" />
-      </a>
-    </td>
-  </tr>
-</table>
  </div>
 <br><br>
 
@@ -155,8 +122,7 @@
     </td>
  </tr>
 </table>
-<br><br>
-    
+<br><br>   
       
 ---
 
