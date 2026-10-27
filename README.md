@@ -4,7 +4,7 @@
     <div class="container">
 # Hi 👋, I'm Hassan Ali
 
-###  AI/ML Engineer | Computer Vision Engineer | 
+###  Machine Learning Engineer | Deep Learning | Computer Vision 
 
 ---
 
