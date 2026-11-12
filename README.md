@@ -102,8 +102,8 @@
       <br>Sklearn
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
-      <br>Anaconda
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br>Azure
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
