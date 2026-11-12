@@ -27,8 +27,6 @@
 
 
 
-### :hammer_and_wrench: My Major Skill :
-
 <table align="center">
   <tr>
     <td align="center" width="80">
@@ -124,22 +122,6 @@
       <br>Sklearn
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
-      <br>NumPy
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
-      <br>Jupyter
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=kaggle" width="48" height="48" alt="Kaggle" />
-      <br>Kaggle
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
       <br>Anaconda
     </td>
@@ -148,15 +130,9 @@
       <br>FastAPI
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=airflow" width="48" height="48" alt="Airflow" />
-      <br>Airflow
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
       <br>Kafka
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="CI/CD" />
       <br>CI/CD
@@ -177,6 +153,8 @@
       <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
       <br>Prometheus
     </td>
+  </tr>
+  <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -197,8 +175,6 @@
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
@@ -219,28 +195,8 @@
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
       <br>Next.js
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-      <br>Supabase
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-      <br>Nginx
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-      <br>Bash
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
   </tr>
-</table>  
+</table> 
     
 ---
 
