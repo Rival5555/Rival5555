@@ -164,6 +164,40 @@
       <br>Next.js
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
+      <br>Ansible
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elastic" />
+      <br>Elastic
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
+  </tr>
 </table>
     
 ---
